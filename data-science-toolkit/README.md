@@ -4,42 +4,44 @@ Welcome to the DATA-SCIENCE-TOOLKIT! This repository contains comprehensive guid
 
 ## Table of Contents
 
-1. [Installation](docs/installation/README.md)
-   - [Anaconda Installation](docs/installation/anaconda_installation.md)
-   - [Conda Installation](docs/installation/conda_installation.md)
-   - [Jupyter Installation](docs/installation/jupyter_installation.md)
-   - [NumPy Installation](docs/installation/numpy_installation.md)
-   - [PyTorch Installation](docs/installation/pytorch_installation.md)
-   - [Matplotlib Installation](docs/installation/matplotlib_installation.md)
+1. [Installation](/docs/installation/README.md)
+   - [Anaconda Installation](/docs/installation/anaconda_installation.md)
+   - [Conda Installation](/docs/installation/conda_installation.md)
+   - [Jupyter Installation](/docs/installation/jupyter_installation.md)
+   - [NumPy Installation](/docs/installation/numpy_installation.md)
+   - [PyTorch Installation](/docs/installation/pytorch_installation.md)
+   - [Matplotlib Installation](/docs/installation/matplotlib_installation.md)
 
-2. [Getting Started](docs/getting_started/README.md)
-   - [Anaconda Quick Start](docs/getting_started/anaconda_quick_start.md)
-   - [Conda Environment](docs/getting_started/conda_environment.md)
-   - [Jupyter Notebook Basics](docs/getting_started/jupyter_notebook_basics.md)
-   - [Jupyter Lab Introduction](docs/getting_started/jupyter_lab_intro.md)
-   - [NumPy Basics](docs/getting_started/numpy_basics.md)
-   - [Matplotlib Basics](docs/getting_started/matplotlib_basics.md)
-   - [PyTorch Basics](docs/getting_started/pytorch_basics.md)
+2. [Getting Started](/docs/getting_started/README.md)
+   - [Anaconda Quick Start](/docs/getting_started/anaconda_quick_start.md)
+   - [Conda Environment](/docs/getting_started/conda_environment.md)
+   - [Jupyter Notebook Basics](/docs/getting_started/jupyter_notebook_basics.md)
+   - [Jupyter Lab Introduction](/docs/getting_started/jupyter_lab_intro.md)
+   - [NumPy Basics](/docs/getting_started/numpy_basics.md)
+   - [Matplotlib Basics](/docs/getting_started/matplotlib_basics.md)
+   - [PyTorch Basics](/docs/getting_started/pytorch_basics.md)
 
-3. [Advanced Topics](docs/advanced_topics/README.md)
-   - [Advanced Conda Usage](docs/advanced_topics/conda_advanced.md)
-   - [Jupyter Lab Extensions](docs/advanced_topics/jupyter_lab_extensions.md)
-   - [Advanced NumPy Techniques](docs/advanced_topics/numpy_advanced.md)
-   - [Advanced PyTorch Techniques](docs/advanced_topics/pytorch_advanced.md)
-   - [Advanced Matplotlib Techniques](docs/advanced_topics/matplotlib_advanced.md)
+3. [Advanced Topics](/docs/advanced_topics/README.md)
+   - [Advanced Conda Usage](/docs/advanced_topics/conda_advanced.md)
+   - [Jupyter Lab Extensions](/docs/advanced_topics/jupyter_lab_extensions.md)
+   - [Advanced NumPy Techniques](/docs/advanced_topics/numpy_advanced.md)
+   - [Advanced PyTorch Techniques](/docs/advanced_topics/pytorch_advanced.md)
+   - [Advanced Matplotlib Techniques](/docs/advanced_topics/matplotlib_advanced.md)
 
-4. [Resources](docs/resources.md)
+4. [Resources](/docs/resources.md)
    - Additional resources, links, and references for further learning and exploration.
 
-5. [Code](code/README.md)
+5. [Code](/code/README.md)
    - **Notebooks**: Jupyter Notebooks showcasing data analysis, machine learning, and deep learning tasks.
-     - [notebooks1.ipynb](code/notebooks/notebooks1.ipynb)
-     - [notebooks2.ipynb](code/notebooks/notebooks2.ipynb)
+     - [notebooks1.ipynb](/code/notebooks/notebooks1.ipynb)
+     - [notebooks2.ipynb](/code/notebooks/notebooks2.ipynb)
+     - [notebooks redeme](/code/notebooks/README.md)
    - **Scripts**: Python scripts for specific tasks.
-     - [matplotlib_script.py](code/scripts/matplotlib_script.py)
-     - [pytorch_script.py](code/scripts/pytorch_script.py)
+     - [matplotlib_script.py](/code/scripts/matplotlib_script.py)
+     - [pytorch_script.py](/code/scripts/pytorch_script.py)
+     - [scripts redeme](/code/scripts/README.md)
 
-6. [Images](images/)
+6. [Images](/images/)
    - Visual assets used in the project, such as screenshots.
 
 ## Usage

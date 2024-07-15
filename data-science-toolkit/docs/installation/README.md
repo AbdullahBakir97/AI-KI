@@ -20,47 +20,47 @@ Welcome to the installation guide for setting up your Python environment using A
 
 ## Anaconda Installation
 
-- **[anaconda_installation.md](./docs/installation/anaconda_installation.md)**: Detailed guide on installing Anaconda, a distribution of Python for scientific computing.
+- **[anaconda_installation.md](anaconda_installation.md)**: Detailed guide on installing Anaconda, a distribution of Python for scientific computing.
 
 ---
 
 ## Conda Installation
 
-- **[conda_installation.md](./docs/installation/conda_installation.md)**: Instructions for installing and managing packages with Conda, Anaconda's package manager.
+- **[conda_installation.md](conda_installation.md)**: Instructions for installing and managing packages with Conda, Anaconda's package manager.
 
 ---
 
 ## Jupyter Installation
 
-- **[jupyter_installation.md](./docs/installation/jupyter_installation.md)**: Guide on installing Jupyter Notebook and JupyterLab for interactive computing and data visualization.
+- **[jupyter_installation.md](jupyter_installation.md)**: Guide on installing Jupyter Notebook and JupyterLab for interactive computing and data visualization.
 
 ---
 
 ## NumPy Installation
 
-- **[numpy_installation.md](./docs/installation/numpy_installation.md)**: Installation guide for NumPy, a fundamental package for numerical computing in Python.
+- **[numpy_installation.md](numpy_installation.md)**: Installation guide for NumPy, a fundamental package for numerical computing in Python.
 
 ---
 
 ## Matplotlib Installation
 
-- **[matplotlib_installation.md](./docs/installation/matplotlib_installation.md)**: Instructions for installing Matplotlib, a plotting library for creating visualizations in Python.
+- **[matplotlib_installation.md](matplotlib_installation.md)**: Instructions for installing Matplotlib, a plotting library for creating visualizations in Python.
 
 ---
 
 ## PyTorch Installation
 
-- **[pytorch_installation.md](./docs/installation/pytorch_installation.md)**: Installation guide for PyTorch, a deep learning framework that accelerates the path from research prototyping to production deployment.
+- **[pytorch_installation.md](pytorch_installation.md)**: Installation guide for PyTorch, a deep learning framework that accelerates the path from research prototyping to production deployment.
 
 ---
 
 ## Tips & Tricks
 
-- **[anaconda_tips.md](./docs/getting_started/tips_tricks/anaconda_tips.md)**: Tips and tricks for maximizing productivity with Anaconda and Conda.
-- **[jupyter_tips.md](./docs/installation/tips_tricks/jupyter_tips.md)**: Useful tips and configurations for optimizing Jupyter Notebook and JupyterLab.
-- **[numpy_tips.md](./docs/installation/tips_tricks/numpy_tips.md)**: Valuable tips and tricks for enhancing productivity with NumPy.
-- **[matplotlib_tips.md](./docs/installation/tips_tricks/matplotlib_tips.md)**: Tips and tricks for creating effective visualizations using Matplotlib.
-- **[pytorch_tips.md](./docs/installation/tips_tricks/pytorch_tips.md)**: Tips and tricks for efficient model training and deployment with PyTorch.
+- **[anaconda_tips.md](tips_tricks/anaconda_tips.md)**: Tips and tricks for maximizing productivity with Anaconda and Conda.
+- **[jupyter_tips.md](tips_tricks/jupyter_tips.md)**: Useful tips and configurations for optimizing Jupyter Notebook and JupyterLab.
+- **[numpy_tips.md](tips_tricks/numpy_tips.md)**: Valuable tips and tricks for enhancing productivity with NumPy.
+- **[matplotlib_tips.md](tips_tricks/matplotlib_tips.md)**: Tips and tricks for creating effective visualizations using Matplotlib.
+- **[pytorch_tips.md](tips_tricks/pytorch_tips.md)**: Tips and tricks for efficient model training and deployment with PyTorch.
 
 ---
 

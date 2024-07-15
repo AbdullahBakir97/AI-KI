@@ -7,13 +7,13 @@ This folder contains example scripts demonstrating the use of various libraries 
 
 ## Contents
 
-1. [matplotlib_script.py](code/scripts/matplotlib_script.py)
+1. [matplotlib_script.py](matplotlib_script.py)
    - A script showcasing how to create and customize plots using Matplotlib for data visualization.
-   - [Matplotlib Tips and Tricks](docs/getting_started/matplotlib_basics.md#matplotlib_tips) for enhancing plotting capabilities and efficiency.
+   - [Matplotlib Tips and Tricks](tips_tricks/matplotlib_tips) for enhancing plotting capabilities and efficiency.
 
-2. [pytorch_script.py](code/scripts/pytorch_script.py)
+2. [pytorch_script.py](pytorch_script.py)
    - A script demonstrating how to build, train, and evaluate a convolutional neural network (CNN) using PyTorch for image classification.
-   - [PyTorch Tips and Tricks](docs/advanced_topics/pytorch_advanced.md#pytorch_tips) for optimizing model training, utilizing GPU resources, and improving performance.
+   - [PyTorch Tips and Tricks](tips_tricks/pytorch_tips.md) for optimizing model training, utilizing GPU resources, and improving performance.
 
 ## Script Descriptions
 

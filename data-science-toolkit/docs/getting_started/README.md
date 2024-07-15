@@ -20,7 +20,7 @@ Welcome to the getting started guide for data science and machine learning essen
 
 Learn how to install Anaconda, manage environments, and work with packages:
 
-- [Anaconda Installation Guide](../installation/anaconda_installation.md)
+- [Anaconda Installation Guide](anaconda_installation.md)
 - [Conda Environment Management](conda_environment.md)
 - [Anaconda Tips & Tricks](tips_tricks/anaconda_tips.md)
 
@@ -38,7 +38,7 @@ Explore a quick start guide to using Anaconda for your data science projects:
 
 Understand how to install Conda and manage Python packages effectively:
 
-- [Conda Installation Guide](../installation/conda_installation.md)
+- [Conda Installation Guide](conda_installation.md)
 - [Conda Tips & Tricks](tips_tricks/conda_tips.md)
 
 ---

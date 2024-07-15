@@ -4,9 +4,9 @@ Welcome to the Notebooks section of our project repository! This folder contains
 
 ## Contents
 
-1. [**notebooks1.ipynb**](code/notebooks/example_notebooks1.ipynb): This notebook covers fundamental data analysis techniques including data loading, preprocessing, exploratory data analysis (EDA), and basic machine learning model training and evaluation.
+1. [**notebooks1.ipynb**](/code/notebooks/example_notebooks1.ipynb): This notebook covers fundamental data analysis techniques including data loading, preprocessing, exploratory data analysis (EDA), and basic machine learning model training and evaluation.
 
-2. [**notebooks2.ipynb**](code/notebooks/example_notebooks2.ipynb): This notebook dives into advanced topics such as time series analysis, natural language processing (NLP), and deep learning with TensorFlow/Keras. It includes implementations of ARIMA models, sentiment analysis, and convolutional neural networks (CNNs).
+2. [**notebooks2.ipynb**](/code/notebooks/example_notebooks2.ipynb): This notebook dives into advanced topics such as time series analysis, natural language processing (NLP), and deep learning with TensorFlow/Keras. It includes implementations of ARIMA models, sentiment analysis, and convolutional neural networks (CNNs).
 
 ## Usage
 
