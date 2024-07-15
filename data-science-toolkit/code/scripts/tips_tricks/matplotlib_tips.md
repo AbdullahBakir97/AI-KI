@@ -1,7 +1,6 @@
 
 ### `pytorch_script.py` Tips and Tricks
 
-Since you requested tips and tricks for `pytorch_script.py`, I'll provide a set of tips to enhance productivity and efficiency when working with PyTorch scripts.
 
 #### Tips and Tricks for PyTorch Scripting
 
