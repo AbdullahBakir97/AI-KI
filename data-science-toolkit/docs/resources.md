@@ -84,10 +84,13 @@ Explore practical examples and scripts demonstrating usage and integration:
 - [Notebooks](../code/notebooks/)
   - [Example Notebook 1](../code/notebooks/example_notebook_1.ipynb)
   - [Example Notebook 2](../code/notebooks/example_notebook_2.ipynb)
+  - [Notebooks README](../code/notebooks/README.md)
 - [Scripts](../code/scripts/)
   - [PyTorch Script](../code/scripts/pytorch_script.py)
   - [Matplotlib Script](../code/scripts/matplotlib_script.py)
-
+  - [Scripts README](../code/scripts/README.md)
+    - [Scripts tips & tricks Matplotlib](../code/scripts/tips_tricks/matplotlib_tips.md)
+    - [Scripts tips & tricks PyTorch](../code/scripts/tips_tricks/pytorch_tips.md)
 ---
 
 ## Additional Resources
