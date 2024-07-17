@@ -1,4 +1,5 @@
 ![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=flat-square&logo=Jupyter)
+![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=flat-square&logo=Jupyter)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
@@ -12,45 +13,47 @@ Welcome to the DATA-SCIENCE-TOOLKIT! This repository contains comprehensive guid
 
 ## Table of Contents
 
-1. [Installation](/docs/installation/README.md)
-   - [Anaconda Installation](/docs/installation/anaconda_installation.md)
-   - [Conda Installation](/docs/installation/conda_installation.md)
-   - [Jupyter Installation](/docs/installation/jupyter_installation.md)
-   - [NumPy Installation](/docs/installation/numpy_installation.md)
-   - [PyTorch Installation](/docs/installation/pytorch_installation.md)
-   - [Matplotlib Installation](/docs/installation/matplotlib_installation.md)
+1. [Installation Guides](#installation-guides)
+2. [Getting Started](#getting-started)
+3. [Advanced Topics](#advanced-topics)
+4. [Code Examples](#code-examples)
+5. [Additional Resources](#additional-resources)
+6. [Resources](#resources)
 
-2. [Getting Started](/docs/getting_started/README.md)
-   - [Anaconda Quick Start](/docs/getting_started/anaconda_quick_start.md)
-   - [Conda Environment](/docs/getting_started/conda_environment.md)
-   - [Jupyter Notebook Basics](/docs/getting_started/jupyter_notebook_basics.md)
-   - [Jupyter Lab Introduction](/docs/getting_started/jupyter_lab_intro.md)
-   - [NumPy Basics](/docs/getting_started/numpy_basics.md)
-   - [Matplotlib Basics](/docs/getting_started/matplotlib_basics.md)
-   - [PyTorch Basics](/docs/getting_started/pytorch_basics.md)
+---
 
-3. [Advanced Topics](/docs/advanced_topics/README.md)
-   - [Advanced Conda Usage](/docs/advanced_topics/conda_advanced.md)
-   - [Jupyter Lab Extensions](/docs/advanced_topics/jupyter_lab_extensions.md)
-   - [Advanced NumPy Techniques](/docs/advanced_topics/numpy_advanced.md)
-   - [Advanced PyTorch Techniques](/docs/advanced_topics/pytorch_advanced.md)
-   - [Advanced Matplotlib Techniques](/docs/advanced_topics/matplotlib_advanced.md)
+## Installation Guides
 
-4. [Resources](/docs/resources.md)
-   - Additional resources, links, and references for further learning and exploration.
+Explore detailed installation instructions for setting up essential tools and libraries. See the `docs/installation` folder for more information.
 
-5. [Code](/code/README.md)
-   - **Notebooks**: Jupyter Notebooks showcasing data analysis, machine learning, and deep learning tasks.
-     - [notebooks1.ipynb](/code/notebooks/notebooks1.ipynb)
-     - [notebooks2.ipynb](/code/notebooks/notebooks2.ipynb)
-     - [notebooks redeme](/code/notebooks/README.md)
-   - **Scripts**: Python scripts for specific tasks.
-     - [matplotlib_script.py](/code/scripts/matplotlib_script.py)
-     - [pytorch_script.py](/code/scripts/pytorch_script.py)
-     - [scripts redeme](/code/scripts/README.md)
+---
 
-6. [Images](/images/)
-   - Visual assets used in the project, such as screenshots.
+## Getting Started
+
+Get up and running quickly with introductory guides and basic usage. See the `docs/getting_started` folder for more information.
+
+---
+
+## Advanced Topics
+
+Delve deeper into advanced techniques and optimizations for each tool. See the `docs/advanced_topics` folder for more information.
+
+---
+
+## Code Examples
+
+Explore practical examples and scripts demonstrating usage and integration. See the `code` folder for more information:
+
+- **Notebooks**: Jupyter Notebooks showcasing data analysis, machine learning, and deep learning tasks.
+- **Scripts**: Python scripts for specific tasks.
+
+---
+
+## Resources
+
+For a comprehensive guide to all documentation files and tips & tricks available in this repository, see the [Resources](./docs/resources.md) file.
+
+---
 
 ## Usage
 
